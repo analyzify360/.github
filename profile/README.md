@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/analyzify360/.github/main/github-image-analyzify360.png" alt="Analyzify360 Global Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/analyzify360/.github/main/github-image-analyzify360.png" alt="Analyzify360 Global Banner" width="130%">
 </p>
-![GitHub Snake Light](https://raw.githubusercontent.com/analyzify360/.github/output/snake.svg)
 <h1 align="center">🌍 Analyzify360 Global</h1>
 <p align="center">
   <b>Engineering the Next Generation of Intelligent, Distributed Systems</b><br>
