@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://yourcdn.com/analyzify360-banner.png" alt="Analyzify360 Global Banner" width="100%">
 </p>
-
+![GitHub Snake Light](https://raw.githubusercontent.com/Analyzify360-Global/.github/output/snake.svg)
 <h1 align="center">🌍 Analyzify360 Global</h1>
 <p align="center">
   <b>Engineering the Next Generation of Intelligent, Distributed Systems</b><br>
